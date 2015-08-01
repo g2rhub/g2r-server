@@ -7,7 +7,7 @@ Setup your local environment
 * Ensure pip is installed
 * Install virtualenv http://docs.python-guide.org/en/latest/dev/virtualenvs/
 * Install PostgreSQL http://www.postgresql.org/download/
-* Clone server repository (git clone https://github.com/Gift2Redeem/g2r-server.git)
+* Clone server repository (git clone https://github.com/g2rhub/g2r-server.git)
 * Change directory to server (cd g2r-server)
 * Create a new virtualenv (virtualenv venv)
 * Activate virtualenv (source venv/bin/activate/)
